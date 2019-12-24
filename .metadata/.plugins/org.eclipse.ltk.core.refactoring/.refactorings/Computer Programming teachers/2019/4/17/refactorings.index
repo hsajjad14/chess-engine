@@ -1,0 +1,7 @@
+1555982017013	Encapsulate field 'current_word'
+1555982074808	Encapsulate field 'total'
+1555982315409	Encapsulate field 'userGuess'
+1555982854485	Encapsulate field 'prize_per_consonant'
+1555983060824	Encapsulate field 'answerPhrase'
+1555986856751	Encapsulate field 'completed'
+1556141150860	Encapsulate field 'usedletters'
